@@ -1,3 +1,2 @@
-#!/bin/sh
-chmod +x /usr/bin/qemu-aarch64-static
+#!/bin/bash
 docker run --rm --privileged multiarch/qemu-user-static:register --reset
