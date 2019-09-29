@@ -1,4 +1,4 @@
-From yzldocker/yzlubuntuarm64v8:apt@sha256:f29cdd17f7ecc1f702af60ddf53516381f689b190591bce508be0c80b3124696
+From ubuntu:18.04@sha256:1bbdea4846231d91cce6c7ff3907d26fca444fd6b7e3c282b90c7fe4251f9f86
 ENV LANG C.UTF-8
 WORKDIR /home
 RUN apt-get update
