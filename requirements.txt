@@ -4,5 +4,5 @@ Flask-Compress==1.4.0
 Flask-RESTful==0.3.7
 Flask-SQLAlchemy==2.3.2
 jieba==0.39
-numpy==1.16.2
+numpy==1.22.0
 Snownlp==0.12.3
